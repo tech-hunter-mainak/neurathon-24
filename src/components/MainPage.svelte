@@ -11,6 +11,4 @@
 <h2>Rules</h2>
 <p>Be innovative, work in teams, and have fun!</p>
 
-<h2>Contact Us</h2>
-<p>Email: hackathon@example.com</p>
-<p>Phone: +123-456-7890</p>
+
